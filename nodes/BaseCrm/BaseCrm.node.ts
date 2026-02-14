@@ -25,7 +25,7 @@ import {
 
 export class BaseCrm implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'BaseVN CRM',
+		displayName: 'BaseVN - App CRM',
 		name: 'baseCrm',
 		icon: 'file:../../icons/crm.svg',
 		group: ['transform'],
@@ -34,7 +34,7 @@ export class BaseCrm implements INodeType {
 		subtitle: '={{$parameter["operation"] + ": " + $parameter["resource"]}}',
 		description: 'Interact with BaseVN CRM API',
 		defaults: {
-			name: 'BaseVN CRM',
+			name: 'BaseVN - App CRM',
 		},
 		inputs: ['main'],
 		outputs: ['main'],

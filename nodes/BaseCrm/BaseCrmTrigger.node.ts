@@ -10,14 +10,14 @@ export class BaseCrmTrigger implements INodeType {
 	usableAsTool = true;
 
 	description: INodeTypeDescription = {
-		displayName: 'BaseVN CRM Trigger',
+		displayName: 'BaseVN - App CRM Trigger',
 		name: 'baseCrmTrigger',
 		icon: 'file:../../icons/crm.svg',
 		group: ['trigger'],
 		version: 1,
 		description: 'Starts the workflow when BaseVN CRM webhook events occur',
 		defaults: {
-			name: 'BaseVN CRM Trigger',
+			name: 'BaseVN - App CRM Trigger',
 		},
 		inputs: [],
 		outputs: ['main'],
