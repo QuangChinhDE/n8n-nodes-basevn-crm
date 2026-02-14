@@ -39,7 +39,8 @@
 			"dist/credentials/BaseCrmDealApi.credentials.js"
 		],
 		"nodes": [
-			"dist/nodes/BaseCrm/BaseCrm.node.js"
+			"dist/nodes/BaseCrm/BaseCrm.node.js",
+			"dist/nodes/BaseCrm/BaseCrmTrigger.node.js"
 		]
 	},
 	"devDependencies": {
