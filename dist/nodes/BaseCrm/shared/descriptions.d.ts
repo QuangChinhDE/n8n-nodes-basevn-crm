@@ -1,0 +1,13 @@
+import type { INodeProperties } from 'n8n-workflow';
+export declare const pipelineOperations: INodeProperties[];
+export declare const pipelineFields: INodeProperties[];
+export declare const dealOperations: INodeProperties[];
+export declare const dealFields: INodeProperties[];
+export declare const accountOperations: INodeProperties[];
+export declare const accountFields: INodeProperties[];
+export declare const contactOperations: INodeProperties[];
+export declare const contactFields: INodeProperties[];
+export declare const feedOperations: INodeProperties[];
+export declare const feedFields: INodeProperties[];
+export declare const leadOperations: INodeProperties[];
+export declare const leadFields: INodeProperties[];

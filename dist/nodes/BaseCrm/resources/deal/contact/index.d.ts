@@ -1,0 +1,10 @@
+export * as getAllContactServices from './getAllContactServices';
+export * as getServiceSegments from './getServiceSegments';
+export * as getContactDetail from './getContactDetail';
+export * as getContactActivities from './getContactActivities';
+export * as getContactsByService from './getContactsByService';
+export * as createContact from './createContact';
+export * as updateContactInformation from './updateContactInformation';
+export * as archiveContact from './archiveContact';
+export * as unarchiveContact from './unarchiveContact';
+export * as updateContactOwner from './updateContactOwner';
