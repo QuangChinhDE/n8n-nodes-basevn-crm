@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-basevn-crm",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n node for BaseVN - CRM API - Manage deals and leads with flexible field structures",
 	"license": "MIT",
 	"homepage": "https://github.com/QuangChinhDE/n8n-nodes-basevn-crm",
